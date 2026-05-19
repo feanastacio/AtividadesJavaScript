@@ -6,7 +6,7 @@ If > SE
 ELSE > SENÂO
 ELSE IF > SENÃO SE 
 SWITCH/CASE > SWITCH (fé como um menu de opções, onde cada case é uma opção)
-*/
+*/ 
 
 // let nome = prompt("Digite seu nome: ")
 // console.log(nome);
